@@ -1,2 +1,1 @@
-# Computer-Vision-Project
-Computer Vision Project
+# Road Segmentation Using RGB Satellite Imagery 
